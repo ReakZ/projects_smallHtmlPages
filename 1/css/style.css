@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,500&display=swap");
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  color: #222;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  padding: 0.8rem;
+}
+
+.navbar-nav li {
+  padding-right: 20px;
+}
+
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+.carousel-inner img {
+  height: 50% !important;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 30%;
+  transform: translateY(-50);
+}
+
+.carousel-caption h1 {
+  font-size: 500%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 15px #000;
+}
+
+.carousel-caption h3 {
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 1rem;
+}
+
+.btn-primary {
+  background-color: #6648b1;
+  border: 1px solid #563d7c;
+}
+
+.btn-primary {
+  background-color: #563d7c;
+  border: 1px solid #563d7c;
+}
+
+.jumbotron {
+  padding: 1rem;
+  border-radius: 0px;
+}
+
+.padding {
+  padding-bottom: 2rem;
+}
+
+.welcome {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+.welcome hr {
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+/* Emoji */
+.fun {
+  width: 100%;
+  margin-bottom: 2rem;
+  border: none;
+  background: #563d7c;
+  color: #fff;
+  padding: 1rem;
+}
+
+/* fixed background */
+#fixed {
+  background-image: url("../images/bg.jpg");
+  width: 100%;
+  height: 100%;
+}
+
+/* social */
+
+
+
+.social a {
+  font-size: 5em;
+  margin: 1rem;
+  padding: 3rem;
+}
+
+.html {
+  color: red;
+  font-size: 4em;
+}
+
+.bootstrap {
+  color: #563d7c;
+  font-size: 4em;
+}
+
+.css {
+  color: #2163af;
+  font-size: 4em;
+}
+
+.facebook {
+  color: #3b5998;
+}
+
+.twitter {
+  color: #00aced;
+}
+
+.plus {
+  color: #dd4b39;
+}
+
+.instagram {
+  color: #517fa4;
+}
+
+.youtube {
+  color: #bb0000;
+}
+
+.social a>i:hover {
+  color: #d5d5d5;
+}
+
+footer {
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+footer a {
+  color: #d5d5d5;
+}
+
+.car-img-top {
+  height: 128px;
+  width: 128px;
+  border-radius: 50%;
+  margin: 10px auto;
+}
