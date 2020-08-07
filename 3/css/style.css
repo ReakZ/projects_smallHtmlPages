@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+main{
+  padding-top: 5rem;
+}
+.general{
+
+
+
+
+font-weight: 800;
+font-size: 67px !important;
+line-height: 71px;
+/* or 106% */
+
+margin-top: 1rem;
+
+color: #000000;
+}
+
+
+.description{
+padding-top: 1.5rem;
+font-weight: normal;
+font-size: 28px;
+line-height: 34px;
+text-align: center;
+letter-spacing: -0.451613px;
+}
+
+form{
+  padding-top: 2rem;
+}
+.number{
+  border: none;
+  border-bottom: 2px solid #ccc;
+  font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+margin-right: 1rem;
+}
+
+.btn-success{
+  margin-top: -1rem;
+}
+.number:focus{
+  border: none;
+  border-bottom: 2px solid #999;
+}
+
+.part-1 {
+  width: 6.2rem;
+}
+
+.part-2 {
+  width: 4.9rem;
+}
+
+.part-3 {
+  width: 3rem;
+}
+
+.social {
+  padding-top: 2rem;
+}
+
+.social i{
+
+  font-size: 64px;
+  
+}
+
+.facebook {
+  color: #3b5998;
+}
+
+.twitter {
+  color: #00aced;
+}
+
+.youtube {
+  color: #bb0000;
+}
+
+.social a>i:hover {
+  
+  color: #999;
+}

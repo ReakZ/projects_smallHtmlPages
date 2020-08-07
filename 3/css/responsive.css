@@ -1,0 +1,109 @@
+@media screen and (max-width: 900px) {
+
+    .btn-success {
+        margin-top: 2rem;
+    }
+    .part-1 {
+        width: 3.8rem;
+    }
+
+    .part-2 {
+        width: 2.8rem;
+    }
+
+    .part-3 {
+        width: 2rem;
+    }
+
+    .number {
+
+        font-size: 24px;
+        line-height: 32px;
+        margin-right: 1rem;
+    }
+
+    .social i {
+
+        font-size: 42px;
+
+    }
+
+    .social {
+        padding-bottom: 5rem;
+    }
+
+    .general{
+        font-size: 48px !important;
+        line-height: 64px;
+    }
+}
+@media screen and (min-width: 900px) and (max-width: 990px) {
+    .btn-success {
+        margin-top: 2rem !important;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .general {
+        font-size: 56px !important;
+    }
+    .btn-success {
+        margin-top: 0rem;
+    }
+    .number {
+
+        font-size: 24px;
+        line-height: 32px;
+        margin-right: 1rem;
+    }
+
+    .social i {
+
+        font-size: 64px;
+
+    }
+    .part-1 {
+        width: 3.8rem;
+    }
+
+    .part-2 {
+        width: 2.8rem;
+    }
+
+    .part-3 {
+        width: 2rem;
+    }
+
+}
+
+@media screen and (min-width: 1740px) {
+
+    .general {
+        font-size: 84px !important;
+    }
+    .btn-success {
+        margin-top: 0rem;
+    }
+    .number {
+
+        font-size: 24px;
+        line-height: 32px;
+        margin-right: 1rem;
+    }
+
+    .social i {
+        padding-top: 5rem;
+        font-size: 72px;
+
+    }
+    .part-1 {
+        width: 3.8rem;
+    }
+
+    .part-2 {
+        width: 2.8rem;
+    }
+
+    .part-3 {
+        width: 2rem;
+    }
+}
